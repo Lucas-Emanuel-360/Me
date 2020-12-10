@@ -1,0 +1,151 @@
+ body {
+     margin: 0;
+     width: 100%;
+     background-image: url(svgzado_Prancheta\ 1.svg);
+     background-size: 100%;
+     background-repeat: fixed;
+ }
+ 
+ header div {
+     margin-top: -100px;
+     font-size: 1300%;
+     margin-left: 4%;
+     color: rgb(200, 211, 207);
+     font-family: century-gothic, sans-serif;
+ }
+ 
+ .um {
+     margin-top: 75px;
+     width: 250px;
+     display: flex;
+     align-items: center;
+     justify-content: center;
+ }
+ 
+ .dois {
+     margin-top: 60px;
+     width: 400px;
+     height: 150px;
+     font-size: 65px;
+     margin-left: 185px;
+     border-radius: 30cm;
+     background-color: #2fcadf;
+     color: #131313;
+     transition: 0.3s;
+     outline: none;
+     font-family: century-gothic, sans-serif;
+ }
+ 
+ .dois:hover {
+     margin-top: 60px;
+     width: 440px;
+     height: 160px;
+     font-size: 60px;
+     margin-left: 185px;
+     color: rgb(238, 238, 238);
+     transition: 0.3s;
+     border-radius: 30cm;
+     font-size: 68px;
+     outline: none;
+     font-family: century-gothic, sans-serif;
+ }
+ 
+ .tres {
+     margin-top: 60px;
+     width: 450px;
+     height: 150px;
+     font-size: 67px;
+     margin-left: 800px;
+     border-radius: 30cm;
+     background-color: #2fcadf;
+     color: #131313;
+     transition: 0.3s;
+     outline: none;
+     font-family: century-gothic, sans-serif;
+ }
+ 
+ .tres:hover {
+     margin-top: 60px;
+     width: 480px;
+     height: 180px;
+     font-size: 68px;
+     margin-left: 800px;
+     color: rgb(238, 238, 238);
+     transition: 0.3s;
+     border-radius: 30cm;
+     font-size: 68px;
+     outline: none;
+     font-family: century-gothic, sans-serif;
+ }
+ 
+ a {
+     width: 30%;
+     height: 10%;
+ }
+ 
+ .artes {
+     margin-top: 120px;
+     font-size: 80px;
+     font-family: century-gothic, sans-serif;
+     color: rgb(200, 211, 207);
+     margin-left: 160px;
+ }
+ 
+ .jin {
+     width: 1000px;
+     margin-left: 160px;
+     margin-top: 60px;
+     box-shadow: 0px 0px 80px rgb(158, 94, 51);
+     transition: 0.3s;
+ }
+ 
+ .jin:hover {
+     width: 1050px;
+     margin-left: 160px;
+     margin-top: 60px;
+     box-shadow: 0px 0px 80px rgb(158, 94, 51);
+     transition: 0.3s;
+ }
+ 
+ .des {
+     width: 1000px;
+     margin-left: 600px;
+     margin-top: 60px;
+     box-shadow: 0px 0px 80px rgb(0, 238, 255);
+     transition: 0.3s;
+ }
+ 
+ .des:hover {
+     width: 1050px;
+     margin-left: 600px;
+     margin-top: 60px;
+     box-shadow: 0px 0px 80px rgb(0, 238, 255);
+     transition: 0.3s;
+ }
+ 
+ .uau {
+     width: 1000px;
+     height: 1000px;
+     margin-left: 600px;
+     margin-top: 60px;
+     box-shadow: 0px 0px 80px rgb(46, 46, 143);
+     transition: 0.3s;
+ }
+ 
+ .uau:hover {
+     width: 1050px;
+     height: 1050px;
+     margin-left: 600px;
+     margin-top: 60px;
+     transition: 0.3s;
+     box-shadow: 0px 0px 80px rgb(46, 46, 143);
+ }
+ 
+ .eu {
+     margin-top: 250px;
+     margin-left: 2500px;
+     width: 650px;
+     border-radius: 500cm;
+     position: fixed;
+     box-shadow: 0px 0px 100px rgb(25, 18, 98, 0.8);
+ }
